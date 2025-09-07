@@ -1,7 +1,7 @@
 <!-- Typing animation introduction -->
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://i.imgur.com/P4FGMoS.png" width="400" style="display: block; margin: 0 auto"/>
+<!--   <img src="https://i.imgur.com/P4FGMoS.png" width="400" style="display: block; margin: 0 auto"/> -->
 </p>
 
 <!-- Social Links -->
@@ -17,16 +17,6 @@
 </div>
 
 </br>
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/parmar-darshan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:darshan0302parmar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-</p>
 
 ---
 <!-- About Me section with animated GIF and short description -->
