@@ -20,16 +20,18 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me  
 
+<p>
+  <img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
+  
+  🎓 I'm a 3rd year B.Tech student with a passion for **Data Science, Machine Learning, and real-world problem solving**  
+  💡 Contributor at **GSSoC’25** | Exploring **MERN stack & AI-ML**  
+  📌 Open to **internships & open-source opportunities**  
+</p>
 
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
+<br clear="right"/>
 
-🎓 I'm a 3rd year B.Tech student with a passion for **Data Science, Machine Learning, and real-world problem solving**   
-💡 Contributor at **GSSoC’25** | Exploring **MERN stack & AI-ML**  
-📌 Open to **internships & open-source opportunities**  
----
 
 ## 🛠 Skills  
 
