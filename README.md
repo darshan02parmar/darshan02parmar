@@ -20,17 +20,16 @@
 </p>
 
 ---
-## 👨‍💻 About Me  
+<!-- About Me section with animated GIF and short description -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> About Me  
 
-<p>
-  <img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
-  
-  🎓 I'm a 3rd year B.Tech student with a passion for **Data Science, Machine Learning, and real-world problem solving**  
-  💡 Contributor at **GSSoC’25** | Exploring **MERN stack & AI-ML**  
-  📌 Open to **internships & open-source opportunities**  
-</p>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
 
-<br clear="right"/>
+- 🎓 I’m a **3rd year B.Tech CSE student** with a passion for **full-stack development,Data Analytics and Problem solving **  
+- 🌱 Currently exploring **MERN stack & AI-ML**  
+- 💡 Contributor at **GSSoC’25 (GirlScript Summer of Code)**  
+- 🤝 Open to **internships & open-source collaboration opportunities**  
+
 
 
 ## 🛠 Skills  
