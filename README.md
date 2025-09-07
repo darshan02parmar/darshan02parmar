@@ -6,7 +6,6 @@
 </div>
 </br>
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parmar-darshan/">
@@ -21,19 +20,14 @@
 </p>
 
 ---
-
+ 
 ## 👨‍💻 About Me  
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
 
-- 🎓 B.Tech CSE Student at ITM SLS Baroda University (2023–2027)  
-- 🚀 Aspiring **Software Developer** passionate about **Full-Stack Development & Data Analytics**  
-- 🐍 Skilled in Python, React, Node.js, PHP, SQL  
-- 📊 Built **InsightEDU & AQI Dashboard** using Streamlit, pandas, NumPy, Matplotlib, Seaborn  
-- ✈️ Created **Service Booking App** (React + Node.js + MySQL) & **Airline Reservation System** (PHP + MySQL)  
-- 🤝 Contributor at **GSSoC’25**  
-- 🌱 Exploring MERN stack & Cloud Technologies  
-- 💡 Open to **Internship and Open-Source Opportunities**  
+🎓 I'm a 3rd year B.Tech student with a passion for **Data Science, Machine Learning, and real-world problem solving**   
+💡 Contributor at **GSSoC’25** | Exploring **MERN stack & AI-ML**  
+📌 Open to **internships & open-source opportunities**  
 
 ---
 
