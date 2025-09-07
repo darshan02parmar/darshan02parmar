@@ -1,8 +1,11 @@
 <!-- Typing animation introduction -->
-<!-- Profile Image -->
-<p align="center">
-<!--   <img src="https://i.imgur.com/P4FGMoS.png" width="400" style="display: block; margin: 0 auto"/> -->
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00C4FF&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=130&lines=Hello+World!+I'm+Khushi+Chetule+💻;Passionate+Learner+%7C+Creative+Developer+🚀;Exploring+Tech+%26+Building+Ideas+🌟" alt="Typing SVG"/>
+  </a>
+</div>
+</br>
+
 
 <!-- Social Links -->
 <div align="center">
