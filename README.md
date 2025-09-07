@@ -93,9 +93,5 @@
 
 ---
 
-<div align="center">
-  Thanks for visiting my profile! Feel free to connect and collaborate. 🚀
-</div>
-
 **⭐ Don’t forget to star the projects you like!**  
 
