@@ -91,10 +91,10 @@
 [![Visitor Count](https://profile-counter.glitch.me/darshan02parmar/count.svg)](https://github.com/darshan02parmar)
 
 <!-- Developer quote widget -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" /> Random Dev Thought
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quoteCategory=programming)
-
-
+## 💡 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="500"/>
+</p>
 
 ---
 
