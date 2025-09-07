@@ -31,7 +31,8 @@
   
 - 🌐 Contributor at **GSSoC’25 (GirlScript Summer of Code)**
   
-- 💡 Open to **internships & open-source collaboration opportunities**  
+- 💡 Open to **internships & open-source collaboration opportunities**
+<br><br><br>
 
 
 
