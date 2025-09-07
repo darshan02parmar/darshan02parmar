@@ -26,7 +26,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
 
-- 🎓 I’m a **3rd year B.Tech CSE student** with a passion for **full-stack development,Data Analytics and Problem solving **
+- 🎓 I’m a **3rd year B.Tech CSE student** with a passion for **full-stack development**,**Data Analytics** and **Problem solving **
   
 - 🌱 Currently exploring **MERN stack & AI-ML**
   
@@ -86,6 +86,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan02parmar&layout=compact&theme=blue-green&hide_border=false" width="450" />
 
 ---
+
+**⭐ Don’t forget to star the projects you like!**  
 
 <!-- Developer quote widget -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Random Dev thought
