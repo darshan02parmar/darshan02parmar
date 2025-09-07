@@ -1,7 +1,7 @@
 <!-- Typing animation introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2400&pause=100&color=3E92CC&center=true&multiline=true&repeat=false&width=800&height=120&lines=Hi%2C+I'm+Darshan+Parmar!;A+Passionate+Learner+and+Developer;Crafting+Innovative+Solutions+with+Code!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=100&color=FF6EC7,3E92CC&center=true&multiline=true&repeat=false&width=800&height=130&lines=Hey+there!+I'm+Darshan+Parmar;Turning+Coffee+into+Code+☕💻;Exploring+Tech,+Building+Dreams,+Solving+Problems!" alt="Typing SVG"/>
   </a>
 </div>
 </br>
@@ -13,9 +13,6 @@
   </a>
   <a href="mailto:darshan0302parmar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
