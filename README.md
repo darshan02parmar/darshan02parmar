@@ -86,22 +86,25 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan02parmar&layout=compact&theme=blue-green&hide_border=false" width="450" />
 
 ---
-<!-- Visitor counter -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Profile Visitors
-[![Visitor Count](https://profile-counter.glitch.me/darshan02parmar/count.svg)](https://github.com/darshan02parmar)
+<!-- Visitor Counter -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Profile Visitors  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=darshan02parmar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/darshan02parmar">
+    <img src="https://profile-counter.glitch.me/darshan02parmar/count.svg" />
+  </a>
+</p>
+
 
 <!-- Developer quote widget -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Random Dev thought
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
 ---
-
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=FF69B4&center=true&vCenter=true&width=650&lines=Data+is+everything..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Dream+big+,+code+efficiently..." alt="Typing SVG"/>
-    </h1>
-</div>
 
 <div align="center">
   Thanks for visiting my profile! Feel free to connect and collaborate. 🚀
