@@ -49,3 +49,10 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
 ---
+
+## 📈 GitHub Stats  
+
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan02parmar&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan02parmar&layout=compact&theme=radical)  
+
+---
