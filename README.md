@@ -1,9 +1,21 @@
 <!-- Typing animation introduction -->
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://i.imgur.com/P4FGMoS.png" width="400" style="display: block; margin: 0 auto"/>
+</p>
+
+<!-- Social Links -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=100&color=FF6EC7,3E92CC&center=true&multiline=true&repeat=false&width=800&height=130&lines=Hey+there!+I'm+Darshan+Parmar;Turning+Coffee+into+Code+☕💻;Exploring+Tech,+Building+Dreams,+Solving+Problems!" alt="Typing SVG"/>
-  </a>
+  <p>
+    <a href="https://www.linkedin.com/in/parmar-darshan/">
+      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
+    </a>&nbsp;&nbsp;
+    <a href="mailto:darshan0302parmar@gmail.com">
+      <img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1">
+    </a>
+  </p>
 </div>
+
 </br>
 
 
