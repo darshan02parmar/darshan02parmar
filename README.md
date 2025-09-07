@@ -33,6 +33,7 @@
   
 - 💡 Open to **internships & open-source collaboration opportunities**
 <br><br><br>
+<br><br><br>
 
 
 
