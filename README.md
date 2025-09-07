@@ -22,21 +22,13 @@
 ---
 
 ## 👨‍💻 About Me  
-<table>
-<tr>
-<td>
 
+
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
 
 🎓 I'm a 3rd year B.Tech student with a passion for **Data Science, Machine Learning, and real-world problem solving**   
 💡 Contributor at **GSSoC’25** | Exploring **MERN stack & AI-ML**  
 📌 Open to **internships & open-source opportunities**  
-
-</td>
-<td>
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
-</td>
-</tr>
-</table>
 ---
 
 ## 🛠 Skills  
