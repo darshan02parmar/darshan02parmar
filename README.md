@@ -86,9 +86,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan02parmar&layout=compact&theme=blue-green&hide_border=false" width="450" />
 
 ---
-
-## 👁️ Profile Visitors  
+<!-- Visitor counter -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Profile Visitors
 [![Visitor Count](https://profile-counter.glitch.me/darshan02parmar/count.svg)](https://github.com/darshan02parmar)
+
+<!-- Developer quote widget -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Random Dev Thought
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
