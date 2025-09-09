@@ -6,7 +6,6 @@
 </div>
 </br>
 
-
 <!-- Social Links -->
 <div align="center">
   <p>
@@ -21,47 +20,48 @@
 </br>
 
 ---
+
 <!-- About Me section with animated GIF and short description -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> About Me  
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
 
-- 🎓 I’m a **3rd year B.Tech CSE student** with a passion for **full-stack development**,**Data Analytics** and **Problem solving**
-  
+- 🎓 I’m a **3rd year B.Tech CSE student** with a passion for **Full-Stack Development**, **Data Analytics**, and **Problem Solving**
 - 🌱 Currently exploring **MERN stack & AI-ML**
-  
 - 🌐 Contributor at **GSSoC’25 (GirlScript Summer of Code)**
-  
 - 💡 Open to **internships & open-source collaboration opportunities**
-<br><br><br>
-<br><br><br>
 
-
-
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
   <br/>
+
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <br/>
+
+  <!-- Backend / DB -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <br/>
+
+  <!-- Tools / Others -->
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </p>
 
 ---
@@ -72,25 +72,31 @@
 </div>
 
 ---
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats
 
-<!-- General stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=darshan02parmar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="450" />
-<br/>
-<!-- Streak stats -->
-<img src="https://streak-stats.demolab.com/?user=darshan02parmar&theme=blue-green&hide_border=false" width="450" />
-<br/>
-<!-- Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan02parmar&layout=compact&theme=blue-green&hide_border=false" width="450" />
+<!-- GitHub Stats Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan02parmar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=darshan02parmar&theme=blue-green&hide_border=false" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan02parmar&layout=compact&theme=blue-green&hide_border=false" height="180"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 📊 [InsightEDU & AQI](https://github.com/darshan02parmar/InsightEDU-AQI) – Data analysis dashboards using Streamlit  
+- ✈️ [GDC Airways](#) – Flight booking system with PHP + MySQL  
+- 🌐 [Open-Source Contributions](https://github.com/SCR01/scr-game/pulls?q=is%3Apr+author%3Adarshan02parmar) – Actively contributing in **GSSoC’25**  
 
 ---
 
 <!-- Developer quote widget -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Random Dev thought
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Random Dev Thought
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-**⭐ Don’t forget to star the projects you like!**  
-
+**⭐ Don’t forget to star the projects you like!**
