@@ -73,7 +73,7 @@
 
 ---
 <!-- GitHub Stats Section -->
-<!--## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats-->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats
 
 <!-- General stats card -->
 <img src="https://github-readme-stats.vercel.app/api?username=darshan02parmar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="450" />
