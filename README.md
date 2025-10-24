@@ -72,17 +72,16 @@
 </div>
 
 ---
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats  
 
-<!-- General stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=darshan02parmar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="450" />
-<br/>
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=darshan02parmar&theme=blue-green&hide_border=false" width="450" alt="GitHub Streak Stats" />
-<br/>
-<!-- Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan02parmar&layout=compact&theme=blue-green&hide_border=false" width="450" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan02parmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan02parmar&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan02parmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
+</p>
 
 ---
 
