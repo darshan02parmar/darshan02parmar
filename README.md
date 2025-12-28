@@ -66,10 +66,10 @@
 
 ---
 
-<!-- 📈 GitHub Activity Graph -->
-<!-- <div align="center">
+📈 GitHub Activity Graph 
+<div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan02parmar&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div> -->
+</div> 
 
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats  
