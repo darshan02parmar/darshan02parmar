@@ -72,7 +72,7 @@
 </div> 
 
 ---
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats  
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darshan02parmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
