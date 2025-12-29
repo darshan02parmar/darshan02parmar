@@ -82,14 +82,11 @@
 ---
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan02parmar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan02parmar&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshan02parmar&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan02parmar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=darshan02parmar&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan02parmar&layout=compact&theme=tokyonight)
 
 ---
 
