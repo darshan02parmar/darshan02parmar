@@ -26,13 +26,12 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
 
-- 🎓 I’m a **3rd year B.Tech CSE student** with a passion for **full-stack development**,**Data Analytics** and **Problem solving**
-  
-- 🌱 Currently exploring **MERN stack & AI-ML**
-  
-- 🌐 Contributor at **GSSoC’25 (GirlScript Summer of Code)**
-  
-- 💡 Open to **internships & open-source collaboration opportunities**
+I’m a **3rd-year B.Tech CSE student** passionate about building **scalable web applications**, working with **data**, and solving problems through clean, maintainable code.
+
+- 🎓 B.Tech in Computer Science & Engineering  
+- 🌱 Currently learning **MERN Stack** and **AI/ML fundamentals**  
+- 🌐 Contributor at **GirlScript Summer of Code (GSSoC’25)**  
+- 💼 Open to **internships and open-source collaboration** 
 <br><br><br>
 <br><br><br>
 
