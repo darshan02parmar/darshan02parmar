@@ -91,7 +91,7 @@
 ---
 # Test
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshan02parmar)
+![Test Image](https://github-readme-stats.vercel.app/api?username=darshan02parmar)
 
 
 <!-- Developer quote widget -->
