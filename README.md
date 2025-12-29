@@ -73,7 +73,8 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-📈 GitHub Activity Graph 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> <b>Contribution Overview</b>
+
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan02parmar&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div> 
