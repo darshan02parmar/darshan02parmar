@@ -89,10 +89,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan02parmar&layout=compact&theme=tokyonight)
 
 ---
-# Test
+# Image Test
 
-![Test Image](https://github-readme-stats.vercel.app/api?username=darshan02parmar)
-
+![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 <!-- Developer quote widget -->
 <!--## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Random Dev thought-->
