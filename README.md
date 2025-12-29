@@ -24,7 +24,7 @@
 <!-- About Me section with animated GIF and short description -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Who am I?  
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
+<img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
 
 I’m a **3rd-year B.Tech CSE student** passionate about building **scalable web applications**, working with **data**, and solving problems through clean, maintainable code.
 
@@ -33,8 +33,6 @@ I’m a **3rd-year B.Tech CSE student** passionate about building **scalable web
 - 🌐 Contributor at **GirlScript Summer of Code (GSSoC’25)**  
 - 💼 Open to **internships and open-source collaboration** 
 <br><br><br>
-<br><br><br>
-
 
 
 
