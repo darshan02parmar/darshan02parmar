@@ -26,7 +26,7 @@
 
 <img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
 
-I’m a **3rd-year B.Tech CSE student** passionate about building **scalable web applications**, working with **data**, and solving problems through clean, maintainable code.
+I’m a **B.Tech CSE student** passionate about building **scalable web applications**, working with **data**, and solving problems through clean, maintainable code.
 
 - 🎓 B.Tech in Computer Science & Engineering  
 - 🌱 Currently learning **MERN Stack** and **AI/ML fundamentals**  
