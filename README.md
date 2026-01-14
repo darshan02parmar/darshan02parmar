@@ -73,13 +73,13 @@ I’m a **Third Year B.Tech CSE student** passionate about building **scalable w
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
-
+<!--
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> <b>Contribution Overview</b>
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan02parmar&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div> 
-
+-->
 ---
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats  
 
