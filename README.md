@@ -1,7 +1,7 @@
 <!-- Typing animation introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2500&pause=800&color=3E92CC&center=true&vCenter=true&multiline=true&repeat=false&width=850&height=100&lines=Hi%2C+I'm+Darshan+👋;A+Passionate+Learner+%26+Developer+🚀" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2500&pause=800&color=3E92CC&center=true&vCenter=true&multiline=true&repeat=false&width=850&height=100&lines=Hi%2C+I'm+Darshan+;A+Passionate+Learner+%26+Developer+🚀" alt="Typing SVG"/>
   </a>
 </div>
 </br>
@@ -44,26 +44,21 @@ I’m a **Third Year B.Tech CSE student** passionate about building **scalable w
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-
 ---
-
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-
 ---
-
 ### **Backend & Databases**
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F.svg?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-
 ---
-
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
