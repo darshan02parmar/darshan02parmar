@@ -17,8 +17,8 @@
     <img height="35" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
   </a>&nbsp;&nbsp;
 
-  <a href="https://darshan-parmar.vercel.app/">
-    <img height="35" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png">
+  <a href="https://darshan-parmar.vercel.app/" target="_blank">
+  <img height="45" src="https://img.icons8.com/fluency/96/internet.png">
   </a>
 </div>
 </br>
