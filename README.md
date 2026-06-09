@@ -16,7 +16,7 @@
     <a href="mailto:darshan0302parmar@gmail.com">
       <img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1">
     </a> &nbsp;&nbsp;
-    a href="https://darshan-parmar.vercel.app/" target="_blank">
+    <a href="https://darshan-parmar.vercel.app/" target="_blank">
 <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40"
 viewBox="0 0 24 24" fill="none" stroke="#3B82F6"
 stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
