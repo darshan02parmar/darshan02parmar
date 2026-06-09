@@ -16,6 +16,9 @@
     <a href="mailto:darshan0302parmar@gmail.com">
       <img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1">
     </a>
+    <a href="https://darshan-parmar.vercel.app/" target="_blank">
+      <img height="30" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png">
+    </a>
   </p>
 </div>
 </br>
