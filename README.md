@@ -31,7 +31,7 @@
 
 I’m a **Third Year B.Tech CSE student** passionate about building **scalable web applications**, working with **data**, and solving problems through clean, maintainable code.
 
-- 🌐 Contributor at **GirlScript Summer of Code (GSSoC’25)**  
+- 🌐 Open Source Contributor at **GSSoC’25** and **NSOC 2026**
 - 💼 Open to **internships and open-source collaboration** 
 <br><br><br>
 <br>
