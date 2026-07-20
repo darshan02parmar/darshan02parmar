@@ -29,10 +29,11 @@
 
 <img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/91f25005-e501-4705-8816-e4523548c790" />
 
-I’m a **Third Year B.Tech CSE student** passionate about building **scalable web applications**, working with **data**, and solving problems through clean, maintainable code.
+I’m a **Final-year** B.Tech CSE student and open-source contributor, building full-stack products and exploring scalable backend systems, AI integrations, and modern web experiences.
 
-- 🌐 Open Source Contributor at **GSSoC’25** and **NSOC 2026**
-- 💼 Open to **internships and open-source collaboration** 
+- Open Source Contributor at **GSSoC’25** and **NSOC 2026**
+- Exploring AI integrations, backend systems & scalable applications
+
 <br><br><br>
 <br>
 
