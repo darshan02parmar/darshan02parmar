@@ -81,8 +81,6 @@ I’m a **Final-year** B.Tech CSE student and open-source contributor, building 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=darshan02parmar&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan02parmar&layout=compact&theme=tokyonight)
-
 ---
 
 
