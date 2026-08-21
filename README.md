@@ -34,6 +34,7 @@ I’m a **Final-year** B.Tech CSE student and open-source contributor, building 
 - Open Source Contributor at **GSSoC’25** and **NSOC 2026**
 - Exploring AI integrations, backend systems & scalable applications
 
+![Profile Views](https://komarev.com/ghpvc/?username=darshan02parmar&label=Profile%20Views&color=0e75b6&style=flat)
 <br><br><br>
 <br>
 
@@ -87,7 +88,7 @@ I’m a **Final-year** B.Tech CSE student and open-source contributor, building 
 <!-- Developer quote widget -->
 <!--## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Random Dev thought-->
 <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)-->
-![Profile Views](https://komarev.com/ghpvc/?username=darshan02parmar&label=Profile%20Views&color=0e75b6&style=flat)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=darshan02parmar&label=Profile%20Views&color=0e75b6&style=flat) -->
 
 
 
