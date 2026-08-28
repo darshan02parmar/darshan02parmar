@@ -77,7 +77,7 @@ I’m a **Final-year** B.Tech CSE student and open-source contributor, building 
 -->
 ---
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats  
-
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshan02parmar&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=darshan02parmar&theme=tokyonight)
