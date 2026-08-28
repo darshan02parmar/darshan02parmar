@@ -34,7 +34,6 @@ I’m a **Final-year** B.Tech CSE student and open-source contributor, building 
 - Open Source Contributor at **GSSoC’25** and **NSOC 2026**
 - Exploring AI integrations, backend systems & scalable applications
 
-<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=darshan02parmar&label=Profile%20Views&color=0e75b6&style=flat)
 <br><br><br>
 <br>
