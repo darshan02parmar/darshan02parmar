@@ -95,5 +95,5 @@ I’m a **Final-year** B.Tech CSE student and open-source contributor, building 
 
 ---
 
-**⭐ Don’t forget to star the projects you like!**  
+**⭐ Star the repo that caught your eye!**  
 
